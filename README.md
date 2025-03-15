@@ -1,6 +1,6 @@
 # MA3 Startshow Auto Groups
 
-A GrandMA3 plugin to automatically create groups needed for the startshow showfile.
+A GrandMA3 plugin to automatically create groups needed for the [MA Startshow](https://www.youtube.com/watch?v=23SLd59Dje8) showfile.
 
 ## Installation
 

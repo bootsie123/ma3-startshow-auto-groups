@@ -3,6 +3,8 @@ name: MA3 Plugin Build
 on:
   push:
     branches: ["main"]
+    paths:
+      - "*.lua"
 
 permissions:
   contents: write
